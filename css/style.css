@@ -4,7 +4,7 @@ body{
 .big-wrapper{
     width: 100%;
     height: 600px;
-    background-image: url(img/theory/dd.jpg);
+    background-image: url(../img/theory/dd.jpg);
     border-top: 10px solid #5385c1;
 }
 #my-nevigation{
